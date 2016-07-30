@@ -1,0 +1,63 @@
+body {
+  
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#title{
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 30px;
+	font-size: 30pt;
+	font-family: Arial;
+}
+#wrapper{
+	margin: 60px;
+	border: 2px black solid;
+	padding: 30px;
+	border-radius: 10px;
+	background-color: rgba(200, 200, 200, 0.9);
+}
+#directions{
+	text-align: center;
+	padding-bottom: 30px;
+	font-family: Arial;
+	font-size: 18pt;
+}
+.imagestyling{
+	display: inline-block;
+	margin: 30px;
+}
+#addSection{
+	text-align: center;
+}
+button{
+	background-color: gray;
+	color: white;
+	border-radius: 25px;
+	font-weight: bold;
+	font-size: 18pt;
+	margin-bottom: 20px;
+	margin-right: 10px;
+}
+
+p{
+	padding-bottom: 20px;
+}
+.gifStyle{
+	border: 2px black solid;
+}
+
+#gif{
+	text-align: center;
+}
+#addEmotion{
+	text-align: center;
+	background-color: orange;
+	font-weight: bold;
+	border-radius: 10px;
+}
+#input{
+	border: 2px black solid;
+}
